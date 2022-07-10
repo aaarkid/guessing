@@ -1,0 +1,1 @@
+Guessing game where the player has to find the correct random number by being guided if guessed number is too low or too high. Chapter 2 project of the Rust Book.
